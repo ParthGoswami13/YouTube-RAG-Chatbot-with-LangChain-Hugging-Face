@@ -142,28 +142,6 @@ User Question → Question Embedding → Similarity Search → Context Retrieval
 6. **Context Retrieval**: Find relevant transcript chunks using similarity search
 7. **Answer Generation**: Use retrieved context to generate accurate answers
 
-## Customization
-
-### Adding New Features
-
-- **Multiple Videos**: Process multiple YouTube videos simultaneously
-- **Video Metadata**: Include video title, description, and comments
-- **Language Support**: Support for multiple language transcripts
-- **Export Options**: Save conversations and summaries
-
-### Model Improvements
-
-- **Fine-tuning**: Fine-tune models on domain-specific data
-- **Model Selection**: Experiment with different Hugging Face models
-- **Prompt Engineering**: Optimize prompts for better responses
-
-## Limitations
-
-- Requires videos with available transcripts
-- Performance depends on transcript quality
-- Processing time varies with video length
-- Some videos may not have transcripts in desired language
-
 ## Author
 
 **Parth Goswami**
