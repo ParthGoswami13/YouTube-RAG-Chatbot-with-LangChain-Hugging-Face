@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+python-dotenv
+tiktoken
+numpy==1.26.4
